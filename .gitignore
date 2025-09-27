@@ -5,9 +5,7 @@ __pycache__/
 # IDE configuration files
 .idea/
 
-# Secret files (This is the most important part!)
 .env
 
-# Data files (Good practice for large files)
 *.csv
 *.txt
